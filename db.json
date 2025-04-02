@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "09fa",
+      "title": "Pegasus 38",
+      "description": "Nike air model sports shoes",
+      "category": "Shoes",
+      "price": "8000",
+      "brand": "Nike",
+      "rating": 9.8,
+      "stock": "20",
+      "createdAt": "2025-04-02T11:27:13.044Z",
+      "updatedAt": "2025-04-02T11:27:13.044Z"
+    }
+  ]
+}
